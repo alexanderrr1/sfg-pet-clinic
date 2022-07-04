@@ -1,4 +1,4 @@
-package com.example.sfgpetclinic;
+package sfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
