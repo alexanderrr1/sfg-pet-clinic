@@ -15,7 +15,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/alexanderrr1/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.1</tag>
+        <tag>sfg-pet-clinic-0.0.2</tag>
     </scm>
 
     <groupId>com.example</groupId>
